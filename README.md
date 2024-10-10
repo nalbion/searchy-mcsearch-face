@@ -1,7 +1,7 @@
 # Chrome Built-in AI
 
-[Prompt API Playground](https://chrome.dev/web-ai-demos/prompt-api-playground/)
-[Early Preview Program doc](https://docs.google.com/document/d/1VG8HIyz361zGduWgNG7R_R8Xkv0OOJ8b5C9QKeCjU0c/edit?pli=1)
+- [Prompt API Playground](https://chrome.dev/web-ai-demos/prompt-api-playground/)
+- [Early Preview Program doc](https://docs.google.com/document/d/1VG8HIyz361zGduWgNG7R_R8Xkv0OOJ8b5C9QKeCjU0c/edit?pli=1)
 
 - chrome://flags/#optimization-guide-on-device-model
   - Enabled BypassPerfRequirement
